@@ -1,0 +1,8 @@
+{
+    "activityType": "PLAYING",
+    "token": "token",
+    "serverInfo": [
+        "ip",
+        port
+    ]
+}
